@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "   ",
+      "   ",
+      "BE "
+    ],
+    "key": {
+      "E": {
+        "item": "minecraft:emerald_block"
+      },
+      "B": {
+        "item": "minecraft:sweet_berries"
+      }
+    },
+    "result": {
+      "item": "strangeberry:hero_berries",
+      "count": 3
+    }
+  }

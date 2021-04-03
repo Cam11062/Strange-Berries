@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "   ",
+      "   ",
+      "BF "
+    ],
+    "key": {
+      "F": {
+        "item": "minecraft:rabbit_foot"
+      },
+      "B": {
+        "item": "minecraft:sweet_berries"
+      }
+    },
+    "result": {
+      "item": "strangeberry:jump_berries",
+      "count": 3
+    }
+  }

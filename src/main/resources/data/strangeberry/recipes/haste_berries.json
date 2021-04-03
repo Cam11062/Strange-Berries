@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "   ",
+      "   ",
+      "BP "
+    ],
+    "key": {
+      "P": {
+        "item": "minecraft:golden_pickaxe"
+      },
+      "B": {
+        "item": "minecraft:sweet_berries"
+      }
+    },
+    "result": {
+      "item": "strangeberry:haste_berries",
+      "count": 3
+    }
+  }

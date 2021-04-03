@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "   ",
+      "   ",
+      "BS "
+    ],
+    "key": {
+      "S": {
+        "item": "minecraft:sugar"
+      },
+      "B": {
+        "item": "minecraft:sweet_berries"
+      }
+    },
+    "result": {
+      "item": "strangeberry:speed_berries",
+      "count": 3
+    }
+  }
+  

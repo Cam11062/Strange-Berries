@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "   ",
+      "   ",
+      "BM "
+    ],
+    "key": {
+      "M": {
+        "item": "minecraft:magma_cream"
+      },
+      "B": {
+        "item": "minecraft:sweet_berries"
+      }
+    },
+    "result": {
+      "item": "strangeberry:fire_berries",
+      "count": 3
+    }
+  }

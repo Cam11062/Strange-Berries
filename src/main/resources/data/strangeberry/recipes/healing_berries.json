@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "   ",
+      "   ",
+      "BG "
+    ],
+    "key": {
+      "G": {
+        "item": "minecraft:glistering_melon_slice"
+      },
+      "B": {
+        "item": "minecraft:sweet_berries"
+      }
+    },
+    "result": {
+      "item": "strangeberry:healing_berries",
+      "count": 3
+    }
+  }

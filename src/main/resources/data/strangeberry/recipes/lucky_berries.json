@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      "   ",
+      "   ",
+      "BUE"
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:ender_eye"
+    },
+    "U": {
+      "item": "strangeberry:unlucky_berries"
+    },
+    "B": {
+      "item": "minecraft:sweet_berries"
+    }
+  },
+  "result": {
+    "item": "strangeberry:lucky_berries",
+    "count": 3
+  }
+}

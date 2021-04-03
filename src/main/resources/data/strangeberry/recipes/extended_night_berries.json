@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "   ",
+      "   ",
+      "NS "
+    ],
+    "key": {
+      "N": {
+        "item": "strangeberry:night_berries"
+      },
+      "S": {
+        "item": "strangeberry:spectral_berries"
+      }
+    },
+    "result": {
+      "item": "strangeberry:extended_night_berries",
+      "count": 3
+    }
+  }

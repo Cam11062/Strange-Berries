@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "   ",
+      "   ",
+      "BF "
+    ],
+    "key": {
+      "F": {
+        "item": "minecraft:fermented_spider_eye"
+      },
+      "B": {
+        "item": "minecraft:sweet_berries"
+      }
+    },
+    "result": {
+      "item": "strangeberry:harming_berries",
+      "count": 3
+    }
+  }

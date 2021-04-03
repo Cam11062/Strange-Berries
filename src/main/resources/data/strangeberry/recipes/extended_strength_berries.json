@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "   ",
+      "   ",
+      "SW "
+    ],
+    "key": {
+      "S": {
+        "item": "strangeberry:strength_berries"
+      },
+      "W": {
+        "item": "strangeberry:weakness_berries"
+      }
+    },
+    "result": {
+      "item": "strangeberry:extended_strength_berries",
+      "count": 3
+    }
+  }

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "   ",
+      "   ",
+      "BGF"
+    ],
+    "key": {
+      "G": {
+        "item": "minecraft:golden_carrot"
+      },
+      "F": {
+        "item": "minecraft:fermented_spider_eye"
+      },
+      "B": {
+        "item": "minecraft:sweet_berries"
+      }
+    },
+    "result": {
+      "item": "strangeberry:invisibility_berries",
+      "count": 3
+    }
+  }

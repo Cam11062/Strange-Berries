@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "   ",
+      "   ",
+      "FR "
+    ],
+    "key": {
+      "F": {
+        "item": "strangeberry:fire_berries"
+      },
+      "R": {
+        "item": "strangeberry:resist_berries"
+      }
+    },
+    "result": {
+      "item": "strangeberry:extended_fire_berries",
+      "count": 3
+    }
+  }

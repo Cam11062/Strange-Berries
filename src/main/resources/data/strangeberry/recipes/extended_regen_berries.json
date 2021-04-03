@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "   ",
+      "   ",
+      "RH "
+    ],
+    "key": {
+      "R": {
+        "item": "strangeberry:regen_berries"
+      },
+      "H": {
+        "item": "strangeberry:harming_berries"
+      }
+    },
+    "result": {
+      "item": "strangeberry:extended_regen_berries",
+      "count": 3
+    }
+  }

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "   ",
+      "   ",
+      "BS "
+    ],
+    "key": {
+      "S": {
+        "item": "minecraft:spider_eye"
+      },
+      "B": {
+        "item": "minecraft:sweet_berries"
+      }
+    },
+    "result": {
+      "item": "strangeberry:poison_berries",
+      "count": 3
+    }
+  }

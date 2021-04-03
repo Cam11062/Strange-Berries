@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "   ",
+      "   ",
+      "SL "
+    ],
+    "key": {
+      "S": {
+        "item": "strangeberry:speed_berries"
+      },
+      "L": {
+        "item": "strangeberry:slow_berries"
+      }
+    },
+    "result": {
+      "item": "strangeberry:extended_speed_berries",
+      "count": 3
+    }
+  }

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "   ",
+      "   ",
+      "BG "
+    ],
+    "key": {
+      "G": {
+        "item": "minecraft:ghast_tear"
+      },
+      "B": {
+        "item": "minecraft:sweet_berries"
+      }
+    },
+    "result": {
+      "item": "strangeberry:regen_berries",
+      "count": 3
+    }
+  }

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "   ",
+      "   ",
+      "BW "
+    ],
+    "key": {
+      "W": {
+        "item": "minecraft:wither_rose"
+      },
+      "B": {
+        "item": "minecraft:sweet_berries"
+      }
+    },
+    "result": {
+      "item": "strangeberry:unlucky_berries",
+      "count": 3
+    }
+  }

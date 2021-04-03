@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "   ",
+      "   ",
+      "IN "
+    ],
+    "key": {
+      "I": {
+        "item": "strangeberry:invisibility_berries"
+      },
+      "N": {
+        "item": "strangeberry:nausea_berries"
+      }
+    },
+    "result": {
+      "item": "strangeberry:extended_invisibility_berries",
+      "count": 3
+    }
+  }

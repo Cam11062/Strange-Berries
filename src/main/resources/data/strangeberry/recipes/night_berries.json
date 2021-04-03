@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "   ",
+      "   ",
+      "BN "
+    ],
+    "key": {
+      "N": {
+        "item": "minecraft:golden_carrot"
+      },
+      "B": {
+        "item": "minecraft:sweet_berries"
+      }
+    },
+    "result": {
+      "item": "strangeberry:night_berries",
+      "count": 3
+    }
+  }

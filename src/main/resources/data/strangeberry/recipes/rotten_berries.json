@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "   ",
+      "   ",
+      "BR "
+    ],
+    "key": {
+      "R": {
+        "item": "minecraft:rotten_flesh"
+      },
+      "B": {
+        "item": "minecraft:sweet_berries"
+      }
+    },
+    "result": {
+      "item": "strangeberry:rotten_berries",
+      "count": 3
+    }
+  }

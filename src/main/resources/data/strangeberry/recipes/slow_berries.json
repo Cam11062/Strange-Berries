@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "   ",
+    "BSF"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "F": {
+      "item": "minecraft:fermented_spider_eye"
+    },
+    "B": {
+      "item": "minecraft:sweet_berries"
+    }
+  },
+  "result": {
+    "item": "strangeberry:slow_berries",
+    "count": 3
+  }
+}

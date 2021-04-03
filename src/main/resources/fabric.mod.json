@@ -8,12 +8,11 @@
   "authors": [
     "SystemOne (Programmer)",
     "militarycuz (Texturer)",
-    "genshingmejorjuegoo (Spanish Translator)",
-    "plasma303_ (Polish Translator)"
+    "genshingmejorjuegoo (Translator)"
   ],
   "contact": {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/strange-berries",
-    "sources": ""
+    "sources": "https://github.com/System0ne/Strange-Berries"
   },
 
   "license": "CC BY-NC",

@@ -15,7 +15,7 @@
     "sources": "https://github.com/System0ne/Strange-Berries"
   },
 
-  "license": "CC BY-NC",
+  "license": "MIT License",
   "icon": "assets/strangeberry/icon.png",
 
   "environment": "*",
